@@ -3,3 +3,7 @@
 target/
 dbt_packages/
 logs/
+# dbt core
+venv
+.user.yml
+profiles.yml
